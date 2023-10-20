@@ -7,7 +7,7 @@
 
 - Interested in Selfhosting / Networking
 
-- Born 2002
+- Born 2002 in Germany
 
 <h3 align="left">My Website</h3>
 🌎 https://bytesofprogress.io/
