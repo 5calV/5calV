@@ -12,7 +12,7 @@
 <h3 align="left">My Website</h3>
 <p align="left">
 </p>
-  <a href= https://bytesofprogress.io/</a>
+  <a href="https://bytesofprogress.io/"</a>
 
 
 <h3 align="left">Languages and Tools</h3>
