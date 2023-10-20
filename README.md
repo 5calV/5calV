@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Calvin</h1>
 <h3 align="center">Trainee as an IT specialist for system integration / Computer Science Expert for system integration</h3>
-<center>
-- Currently working on my vocational training & many private projects
+
+- Currently working on my vocational training & many projects
 
 - Linux User
 
@@ -11,8 +11,8 @@
 
 <h3 align="left">My Website</h3>
 <p align="left">
+<a href="https://bytesofprogress.io/"</a>
 </p>
-  <a href="https://bytesofprogress.io/"</a>
 
 
 <h3 align="left">Languages and Tools</h3>
