@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Calvin</h1>
 <h3 align="center">Trainee as an IT specialist for system integration / Computer Science Expert for system integration</h3>
 <center>
-- 🔭 I’m currently working on **my vocational training & many private projects**
+- Currently working on my vocational training & many private projects
 
 - Linux User
 
