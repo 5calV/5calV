@@ -12,9 +12,6 @@
 <h3 align="left">My Website</h3>
 🌎 https://bytesofprogress.io/
 
-<h3 align="left">Get in touch</h3>
-📨 contact@bytesofprogress.io
-
 <h3 align="left">Languages and Tools</h3>
 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
